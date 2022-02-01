@@ -1,0 +1,17 @@
+{
+  "name": "crud_js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ksp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.9"
+  },
+  "devDependencies": {},
+  "description": ""
+}
